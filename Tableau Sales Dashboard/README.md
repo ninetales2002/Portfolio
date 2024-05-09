@@ -19,13 +19,15 @@ The dataset used consists of 11 columns, each column representing an attribute o
 ## Static Dashboard View
 
 
-![Dashboard](/Dashboard-1.png)
+![Dashboard](Dashboard%201.png)
 
+
+<br>
 
 ## Dashboard description
 <br>
 
-## 1. Overview
+### 1. Overview
 
 - **Total Revenue:** Displays the total revenue generated from sales.
   
@@ -36,7 +38,7 @@ The dataset used consists of 11 columns, each column representing an attribute o
 - **Products Sold:** Presents the total count of unique products sold.
 <br>
 
-## 2. Monthly Performance
+### 2. Monthly Performance
 
 - **Bar Plot:** Illustrates the revenue performance month-wise, providing insights into sales trends over time. Acts as a filter to display all information by month.
   
@@ -45,14 +47,15 @@ The dataset used consists of 11 columns, each column representing an attribute o
 (*Note: The visual representation suggests a direct proportion between profit and revenue, with the line plot closely mirroring the trends of the bar plot.
 However, it's crucial to acknowledge an underlying assumption made during the creation of this graph: the profit percentage is presumed to be consistent across all products. This assumption stems from the limitations of the dataset, which did not provide specific profit percentages for each product.
 In reality, profit percentages can vary significantly among different products due to factors such as production costs, pricing strategies, and market demand. Therefore, while the graph provides a general overview of the relationship between sales and revenue, it's essential to interpret the results with caution, recognizing that the actual profit margins for individual products might deviate from the assumed uniform percentage.*)
+
 <br>
 
-## 3. Geographical Insights
+### 3. Geographical Insights
 
 - **Map Plot:** Visualizes the geographical locations of sales, allowing for the identification of key areas of sales activity.
 <br>
 
-## 4. Product Analysis
+### 4. Product Analysis
 
 - **Contribution to Total Profit Table:** Provides a detailed breakdown of each product's contribution to the total profit, displayed as a percentage and absolute profit value.
   
