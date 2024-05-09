@@ -16,6 +16,12 @@ The dataset used consists of 11 columns, each column representing an attribute o
 
 <br>
 
+## Static Dashboard View
+
+
+![Dashboard](/Dashboard-1.png)
+
+
 ## Dashboard description
 <br>
 
