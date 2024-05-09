@@ -1,6 +1,6 @@
 # Sales Dashboard in Tableau
 
-In today's data-driven world, visualizing sales data is crucial for understanding performance and making informed business decisions. This project presents a sales performance dashboard built with Tableau and showcases how interactive visualizations can help businesses uncover hidden trends, identify growth opportunities, and optimize sales strategies
+In today's data-driven world, visualizing sales data is crucial for understanding performance and making informed business decisions. This project presents a sales performance dashboard built with Tableau and showcases how interactive visualizations can help businesses uncover hidden trends, identify growth opportunities, and optimize sales strategies.
 
 The dashboard provides a holistic view of key sales metrics, including revenue, profit, number of orders, and products sold. Through interactive visualizations, we can analyze sales trends over time, identify top-selling products, and explore customer purchase patterns by location. With the added functionality of using the bar plot for monthly performance and the pie chart for product analysis as filters, users can dynamically explore the data by selecting specific months or products of interest, gaining deeper insights into the sales data.
 
@@ -13,6 +13,8 @@ The dataset used consists of 11 columns, each column representing an attribute o
 - Order Date - Date on which the order is placed
 - Purchase Address - Address to where the order is shipped
 - Month, Sales, City, Hour - Extra attributes formed from the above.
+
+In order to get the geographic coordinates based on the information provided in the  *Purchase Address* column, geocoding functionality was integrated into data preprocessing using Python and Google Maps API. The procedure can be found in the file Sales_Data_Geocoding_with_Google_Maps_API.ipynb.
 
 <br>
 
