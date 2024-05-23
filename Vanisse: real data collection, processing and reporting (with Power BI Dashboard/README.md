@@ -29,3 +29,5 @@ El dataset contiene la siguiente información detallada sobre las ventas, incluy
 Los datos fueron recolectados mediante la plataforma Airtable, que permitió un cómodo registro de los datos gracias a sus funciones intuitivas y amigables. Airtable facilitó esta tarea mediante características como la vinculación de registros de otras tablas, generación automática de ID's de fila y de datos datetime, y sincronización en tiempo real.
 
 Una imagen estática del dashboard resultante se muestra a continuación:
+
+![Dashboard](dashboard.png)
