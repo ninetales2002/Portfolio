@@ -31,7 +31,9 @@ El dataset contiene la siguiente información detallada sobre las ventas, incluy
 
 - categoria: clasificación del producto en una categoría específica, como alimentos, bebidas, electrónica, etc. Esta clasificación es útil para análisis de ventas por categoría y para la organización de productos en el punto de venta.
 
-Los datos fueron recolectados mediante la plataforma Airtable, que permitió un cómodo registro de los datos gracias a sus funciones intuitivas y amigables. Airtable facilitó esta tarea mediante características como la vinculación de registros de otras tablas, generación automática de ID's de fila y de datos datetime, y sincronización en tiempo real.
+Los datos fueron recolectados mediante la plataforma Airtable, que permitió un cómodo registro de los datos gracias a sus funciones intuitivas y amigables. Airtable facilitó esta tarea mediante características como la vinculación de registros de otras tablas, generación automática de ID's de fila y de datos datetime, y sincronización en tiempo real. 
+
+Por su parte el preprocesado de los datos se llevó a cabo usando python y se encuentra detallado en el archivo Vanisse.ipynb presente en el repositorio.
 
 Una imagen estática del dashboard resultante se muestra a continuación:
 
